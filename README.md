@@ -132,8 +132,7 @@ Una vez creados los componentes, la estructura de los elementos que su `App.vue`
 <div class="app">
   <Navbar />
   <div>
-    <CountriesList :countries="countries" />
-    <router-view>
+     <router-view>
   </div>
 </div>
 ```
