@@ -19,7 +19,7 @@ Después de pasar demasiado tiempo en GitHub, has encontrado un [conjunto de dat
   ```bash
   $ cd lab-vue-wiki-countries-es
   $ yarn
-  $ yarn start
+  $ yarn dev
   ```
 
 ## La presentación
